@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FourSquareClone</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">QCw0OyoOfMaCHyrrnbv5lYAAsOQRqFCK2QdN1QM7</string>
+    <string name="back4app_client_key">MVARTnWsl4nGS5cgCh83S99j1NvuzDPl0FBeSdDw</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
